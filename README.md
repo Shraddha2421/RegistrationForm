@@ -5,5 +5,7 @@ This project is a Student Registration System developed using HTML, CSS, and Jav
 Technologies Used:-
 
 HTML: For structuring the web pages.
+
 CSS: For styling and responsive design.
+
 JavaScript: For form validation, dynamic table updates, and data persistence using local storage.
